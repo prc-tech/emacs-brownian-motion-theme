@@ -21,3 +21,12 @@ A light taupe and dark brown Emacs theme for the discerning user who thinks:
 
 ```bash
 git clone https://github.com/prc-tech/emacs-brownian-motion-theme.git ~/.emacs.d/themes/brownian-motion-theme/
+
+Add this to your init.el:
+
+(add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
+(load-theme 'brownian-motion t)
+
+
+
+Profit. Or at least, drift tastefully through the chaos.
