@@ -25,4 +25,4 @@ git clone https://github.com/prc-tech/emacs-brownian-motion-theme.git ~/.emacs.d
 Add this to your init.el:
 
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
-(load-theme 'brownian-motion t)
+(load-theme 'emacs-brownian-motion-theme t)
