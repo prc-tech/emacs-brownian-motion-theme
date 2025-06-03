@@ -26,7 +26,3 @@ Add this to your init.el:
 
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
 (load-theme 'brownian-motion t)
-
-
-
-Profit. Or at least, drift tastefully through the chaos.
